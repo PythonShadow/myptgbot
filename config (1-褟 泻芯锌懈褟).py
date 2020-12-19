@@ -1,3 +1,3 @@
-admin_id = 12456789
+admin_id = 1128393901
 
-token = '738274768:AAGg0ww_ISxPZKqcqW78c6wTUYhHIsZQ'
+token = '1418720851:AAGLcBjmjCs-unOcbtLwHf5wzhYMUWl3Y48'
