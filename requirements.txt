@@ -1,6 +1,5 @@
 pyTelegramBotAPI
 SimpleQIWI
-sqlite3
 requests
 shelve
 coinbase
